@@ -48,14 +48,15 @@ class HATE:
 
 ---
 
-### 🔥 Featured Projects
+### 🔥 Latest Projects
 
-| Project | What it does | Stack |
+<!-- PROJECTS:START -->
+| Project | What it does | ⭐ |
 |---|---|---|
-| 🛡️ [**SMS Scam Shield**](https://github.com/HateSage/sms-scam-shield) | Catches fake BVN alerts, OTP phishing and prize scams with an explanation of every red flag. **99.2% accuracy, 0.995 ROC-AUC.** | scikit-learn · FastAPI · Docker |
-| 🧾 Receipt-to-Ledger Agent | *Shipping soon:* turns receipts and bank alerts into a smart budget | LLM agents · tool calling |
-| ⚡ Power Outage Planner | *Shipping soon:* predicts outages and plans what to charge and run | time series · optimization |
-| 🚨 Rug-Pull Radar | *Shipping soon:* agent that audits BNB Chain tokens before you ape | agents · on-chain data |
+| 🛡️ [**SMS Scam Shield**](https://github.com/HateSage/sms-scam-shield) | Catches fake BVN alerts, OTP phishing and prize scams, explaining every red flag. **99.2% accuracy.** | 0 |
+<!-- PROJECTS:END -->
+
+<sub>🤖 Auto-updated daily by GitHub Actions</sub>
 
 ---
 
