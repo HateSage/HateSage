@@ -53,7 +53,10 @@ class HATE:
 <!-- PROJECTS:START -->
 | Project | What it does | ⭐ |
 |---|---|---|
-| 🛡️ [**SMS Scam Shield**](https://github.com/HateSage/sms-scam-shield) | Catches fake BVN alerts, OTP phishing and prize scams, explaining every red flag. **99.2% accuracy.** | 0 |
+| 🚀 [**Sms Scam Shield**](https://github.com/HateSage/sms-scam-shield) | An AI-powered API that detects scam and fraud SMS messages and explains exactly why they're risky. | 0 |
+| 🚀 [**Trivia Game**](https://github.com/HateSage/Trivia-game) | A simple terminal-based trivia game built with Python. The game presents multiple-choice questions, accepts answers from the user, checks the answers, keeps track of the score, and displays the final result | 0 |
+| 🚀 [**Expense Tracker**](https://github.com/HateSage/Expense-Tracker) | A simple command-line expense tracker built with Python that allows users to add, view, analyze, delete, and save expenses using JSON file storage. | 0 |
+| 🚀 [**Weather Cli App**](https://github.com/HateSage/Weather-cli-app) | CLI weather tool in Python: this fetches live weather via the OpenWeatherMap API, built while learning HTTP requests, JSON, env vars, and error handling. | 0 |
 <!-- PROJECTS:END -->
 
 <sub>🤖 Auto-updated daily by GitHub Actions</sub>
