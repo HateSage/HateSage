@@ -5,7 +5,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+HATE+%F0%9F%91%8B;I+build+AI+agents+that+solve+real+problems;Python+%E2%80%A2+ML+%E2%80%A2+LLMs+%E2%80%A2+FastAPI+%E2%80%A2+Docker;Shipping+a+new+AI+project+every+day+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <p>
-<a href="https://x.com/Ricolistic"><img src="https://img.shields.io/badge/X-@Ricolistic-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Based%20in-Nigeria%20🇳🇬-008751?style=for-the-badge" />
 <img src="https://komarev.com/ghpvc/?username=HateSage&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" />
 </p>
@@ -76,7 +75,6 @@ class HATE:
 
 <div align="center">
 
-**💬 Building in public on X: [@Ricolistic](https://x.com/Ricolistic)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:0f0c29&height=120&section=footer" />
 
