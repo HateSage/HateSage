@@ -68,7 +68,6 @@ class HATE:
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=HateSage&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=HateSage&theme=tokyonight&hide_border=true" />
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HateSage&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </div>
 
 ---
