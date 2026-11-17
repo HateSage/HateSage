@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00d4ff&height=200&section=header&text=HATE&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Agent%20Builder%20%E2%80%A2%20Shipping%20Daily&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00d4ff&height=200&section=header&text=HATE&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Agent%20Builder%20%E2%80%A2&descAlignY=60&descSize=18" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+HATE+%F0%9F%91%8B;I+build+AI+agents+that+solve+real+problems;Python+%E2%80%A2+ML+%E2%80%A2+LLMs+%E2%80%A2+FastAPI+%E2%80%A2+Docker;Shipping+a+new+AI+project+every+day+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
